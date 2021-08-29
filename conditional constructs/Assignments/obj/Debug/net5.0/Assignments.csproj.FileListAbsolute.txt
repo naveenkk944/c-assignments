@@ -1,0 +1,16 @@
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.csproj.AssemblyReference.cache
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.AssemblyInfoInputs.cache
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.AssemblyInfo.cs
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.csproj.CoreCompileInputs.cache
+E:\conditional constructs\Assignments\bin\Debug\net5.0\Assignments.exe
+E:\conditional constructs\Assignments\bin\Debug\net5.0\Assignments.deps.json
+E:\conditional constructs\Assignments\bin\Debug\net5.0\Assignments.runtimeconfig.json
+E:\conditional constructs\Assignments\bin\Debug\net5.0\Assignments.runtimeconfig.dev.json
+E:\conditional constructs\Assignments\bin\Debug\net5.0\Assignments.dll
+E:\conditional constructs\Assignments\bin\Debug\net5.0\ref\Assignments.dll
+E:\conditional constructs\Assignments\bin\Debug\net5.0\Assignments.pdb
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.dll
+E:\conditional constructs\Assignments\obj\Debug\net5.0\ref\Assignments.dll
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.pdb
+E:\conditional constructs\Assignments\obj\Debug\net5.0\Assignments.genruntimeconfig.cache
